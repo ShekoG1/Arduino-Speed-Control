@@ -1,0 +1,10 @@
+﻿Name,Quantity,Component
+"UArduino 1",1," Arduino Uno R3"
+"DLED1",1,"Red LED"
+"DLED2",1,"Orange LED"
+"DLED3",1,"Green LED"
+"RSpeed 1 Res",1,"220 kΩ Resistor"
+"RSpeed 2 Res",1,"150 kΩ Resistor"
+"RSpeed 3 Res",1,"80 kΩ Resistor"
+"RpotAccelerator/Break",1,"250 kΩ Potentiometer"
+"MEngine",1," DC Motor"
